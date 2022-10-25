@@ -176,14 +176,14 @@ volts/div- This control lets you change how many volts are represented by each v
 
 time/div- This control lets you change how much time is represented by each horizontal increment of the grid overlay on the screen. It allows you to zoom in and out along the x axis.
 
-If volt/div is set to 1 volt which implies each mazor vertical division is 1 volt where as each minor vertical division is 0.2 volt. And time/div is set to 0.1ms/div which implies each maor horiontal division is 0.1ms. Voltage on the vertical scale is 1 volt/div multiply by (number of division). Time on the horizontalscale is 0.1msec multiply by (number of division). In the figure 2, 1 volt/div and amplitude of the input signal is 1 volt. Here 0.1mses/div, the frequency is 1 kHz and its period is 1 complete cycle in 1m sec.
+If volt/div is set to 1 volt which implies each mazor vertical division is 1 volt where as each minor vertical division is 0.2 volt. And time/div is set to 0.1ms/div which implies each maor horiontal division is 0.1ms. Voltage on the vertical scale is 1 volt/div multiply by (number of division). Time on the horizontalscale is 0.1msec multiply by (number of division). In the figure 9, 1 volt/div and amplitude of the input signal is 1 volt. Here 0.1mses/div, the frequency is 1 kHz and its period is 1 complete cycle in 1m sec.
 
 <div align="center">
 <img src="images/oscilloscope_1vd.png" width="80%">
 <p>Figure 9  </p>
 </div>
 
-In the figure 3, if volt/div is set to 2volt/div, which implies each mazor division is 2 volt where as each minor division is 0.5volt.
+In the figure 10, if volt/div is set to 2volt/div, which implies each mazor division is 2 volt where as each minor division is 0.5volt.
 
 <div align="center">
 <img src="images/oscilloscope_2vd.png" width="80%">

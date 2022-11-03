@@ -193,3 +193,5 @@ In the figure 10, if volt/div is set to 2volt/div, which implies each mazor divi
 **Note:** If you set the Volts/Div too low, you’ll clip the signal. Similarly, setting it too high, and you’ll won’t find the signal, i.e. the signal will b flat. ncreasing the Timebase will display more cycles of a periodic signal. Conversely, reducing the Timebase, fewer cycles will be displayed.
 
 Virtual Oscilloscope Tutorial : [Oscilloscope Tutorial](http://vlabs.iitkgp.ac.in/be/exp6/content/Oscilloscope%20Tutorial_halfwave.pdf)
+
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
